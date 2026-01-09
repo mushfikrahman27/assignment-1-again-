@@ -353,16 +353,19 @@ cursor: pointer;
     align-items: center;
     
 }
+
  .second-note .card-notethree img {
          
      width: 20px;           
     height: 20px;
 }
+
 .second-note .card-notethree h2{
     margin-top: 50px;
     font-size: 24px;
     font-weight: 600;
  }
+
  .second-note .card-notethree p{
      margin-top: 18px;
     font-size: 16px;
@@ -375,6 +378,7 @@ cursor: pointer;
     padding: 24px;
     box-shadow: 0px 0px 8px   #627382;
 }
+
 .second-note .card-notefour .adfpsss{
 
  width: 60px;
@@ -382,6 +386,7 @@ cursor: pointer;
     margin: 0 auto;
     padding-top: 40px;
 }
+
 .second-note .card-notefour .pngfour{
 
    width: 60px;
@@ -393,21 +398,25 @@ cursor: pointer;
     align-items: center;
     
 }
+
  .second-note .card-notefour img {
          
      width: 20px;            
     height: 20px;
 }
+
 .second-note .card-notefour h2{
     margin-top: 50px;
     font-size: 24px;
     font-weight: 600;
  }
+
 .second-note .card-notefour p{
      margin-top: 18px;
     font-size: 16px;
     font-weight: 200;
   }
+
   #brain .brain{
     max-width: 1600px;
     width: 100%;
@@ -426,32 +435,43 @@ cursor: pointer;
         display: flex;
         align-items: center;
     }
-    .brainimg {
+
+    .brainimg 
+    {
   width: 600px;
   height: 600px;
   display: flex;
+
   justify-content: center;
   align-items: center;
 }
+
+
 .brainimg img {
   max-width: 100%;
   max-height: 100%;
 }
+
 .braincontent {
   flex: 1;
   
   display: flex;
   align-items: center;
 }
-.content-offset {
+
+.content-offset
+ {
   padding-left: 60px;
 }
+
 .content-box {
+
   width: 700px;
   height: 396px;
   display: flex;
   flex-direction: column;
 }
+
 .solution {
   font-size: 12px;
    line-height: 20px;
@@ -459,6 +479,7 @@ cursor: pointer;
   color: #30B868;
   margin-bottom: 18px;
 }
+
 .content-box h2 {
     max-width: 520px;
   font-size: 48px;
@@ -466,6 +487,7 @@ cursor: pointer;
   line-height: auto;
   margin-bottom: 26px;
 }
+
 .content-box p {
      max-width: 520px;
   font-size: 16px;
@@ -475,17 +497,21 @@ cursor: pointer;
   color: #627382;
   margin-bottom: 22px;
 }
+
 .bullet-wrap ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
+
 .bullet-wrap li {
   font-size: 14px;
   margin-bottom: 10px;
   padding-left: 28px;
   position: relative;
 }
+
+
 .bullet-wrap li::before {
   content: "";
   position: absolute;
@@ -523,12 +549,13 @@ background-repeat: no-repeat;
       box-sizing: border-box;  
      height: calc(100%-120px);
      border: none;
-     
- }
+     }
  #Eas .early-access .heading-eas{
     text-align: center;
     max-width: 700px;
+
 }
+
  #Eas .early-access .eas-content h2{
   font-size: 40px;
   font-weight: bold;  
