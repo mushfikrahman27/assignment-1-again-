@@ -197,7 +197,17 @@ cursor: pointer;
   border:  1px solid #ffffff; 
   border-radius: 4px;
   background-color: transparent;
+    display: flex;               
+    align-items: center;         
+    justify-content: center;     
+    gap: 8px;                  
+    cursor: pointer;
 
+}
+.bg-container  .secondbutton .fourthbutton img{
+    width: 30px;
+    height: 16px;
+    display: block;
 }
 #notes .full-notes {
     max-width: 1600px;
